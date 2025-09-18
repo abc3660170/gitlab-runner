@@ -1,0 +1,5 @@
+Host *
+    User root
+    Port 22
+    HostKeyAlgorithms +ssh-rsa
+    StrictHostKeyChecking no
